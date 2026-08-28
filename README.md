@@ -10,7 +10,7 @@
 
 | Project | What it is                                                                                                                         | Status |
 |---|------------------------------------------------------------------------------------------------------------------------------------|---|
-| 📈 **Order Book** | Real-time crypto order book & trading widget - WebSocket streaming, virtualized rendering, tuned for high-frequency updates        | 🚧 In progress |
+| 📈 **[Order Book](https://github.com/leonid-ionov/order-book)** | Real-time BTC/USDT order book with WebSocket updates, snapshot and delta reconciliation. [Live demo](https://order-book-one-peach.vercel.app/) | ✅ Live |
 | 📄 **[Resume Generator](https://github.com/leonid-ionov/resume-generator)** | CV builder with live PDF export - [live demo](https://leonid-ionov.github.io/resume-generator/). Full-stack Next.js rework planned | ✅ Live · 🚧 reworking |
 | 🌾 **[FarmGame](https://github.com/leonid-ionov/FarmGame)** | Browser farming game - [play it](https://leonid-ionov.github.io/FarmGame/). Rebuild on PixiJS + a custom TypeScript ECS planned    | ✅ Live · 🚧 rebuilding |
 
